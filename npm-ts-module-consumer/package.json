@@ -1,0 +1,21 @@
+{
+  "name": "npm-ts-module-consumer",
+  "version": "0.0.1",
+  "description": "Consume a TypeScript npm module",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:spotsoftware/npm-ts-module.git"
+  },
+  "author": "andrea.corzani@spot.it",
+  "license": "MIT",
+  "dependencies": {
+    "npm-ts-module": "0.0.1"
+  }
+}
